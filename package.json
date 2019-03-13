@@ -1,0 +1,27 @@
+{
+  "name": "d3-numerosity",
+  "version": "0.0.1",
+  "description": "{numerosity}",
+  "keywords": [
+    "d3",
+    "d3-module"
+  ],
+  "license": "MIT",
+  "main": "build/d3-numerosity.js",
+  "jsnext:main": "index",
+  "homepage": "https://github.com/{ WONGELAWIT}/d3-numerosity",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/{WONGELAWIT}/d3-numerosity.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "rollup": "0.27",
+    "tape": "4",
+    "uglify-js": "2",
+    "rollup-plugin-node-resolve": "^4.0.1"
+
+  }
+}
