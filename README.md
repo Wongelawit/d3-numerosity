@@ -1,6 +1,3 @@
-# d3-numerosity
-
-YOUR DESCRIPTION HERE. Replace all instances of `numerosity` in this file with the name of your new plugin.
 
 ## Installing
 
