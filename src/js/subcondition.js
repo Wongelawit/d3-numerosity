@@ -246,7 +246,7 @@ function construct_name(color, dimension, distance) {
     return name;
 }
 
-exports.subcondition = (color) => {
+exports.numerosity = (color) => {
     const result = get_subcondition_set(color, 2)
 
     let subconditionsArray = [];

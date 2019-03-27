@@ -1,6 +1,8 @@
 exports.stimulus = require('./src/js/stimulus');
 
-exports.subcondition = require('./src/js/subcondition');
+exports.numerosity = require('./src/js/subcondition');
+
+exports.visualSearch = require('./src/js/visualSearch');
 
 exports.images = {
     blue: require('./images/BLUE_CHR.svg'),

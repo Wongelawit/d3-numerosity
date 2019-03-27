@@ -2,75 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28b6ab7f-0049-46cc-a91c-69c6d2c6fc25" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.npmignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rollup.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/numerosity.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/BLUE_CHR.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/GREEN_CHR.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/RED_CHR.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/YELLOW_CHR.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/blue/BLUE_CHR+1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/blue/BLUE_CHR+2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/blue/BLUE_CHR-1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/blue/BLUE_CHR-2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/blue/BLUE_HUE+1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/blue/BLUE_HUE+2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/blue/BLUE_HUE-1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/blue/BLUE_HUE-2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/blue/BLUE_HUE.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/blue/BLUE_LUM+1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/blue/BLUE_LUM+2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/blue/BLUE_LUM-1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/blue/BLUE_LUM-2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/blue/BLUE_LUM.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/green/GREEN_CHR+1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/green/GREEN_CHR+2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/green/GREEN_CHR-1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/green/GREEN_CHR-2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/green/GREEN_HUE+1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/green/GREEN_HUE+2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/green/GREEN_HUE-1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/green/GREEN_HUE-2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/green/GREEN_HUE.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/green/GREEN_LUM+1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/green/GREEN_LUM+2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/green/GREEN_LUM-1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/green/GREEN_LUM-2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/green/GREEN_LUM.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/red/RED_CHR+1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/red/RED_CHR+2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/red/RED_CHR-1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/red/RED_CHR-2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/red/RED_HUE+1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/red/RED_HUE+2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/red/RED_HUE-1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/red/RED_HUE-2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/red/RED_HUE.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/red/RED_LUM+1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/red/RED_LUM+2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/red/RED_LUM-1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/red/RED_LUM-2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/red/RED_LUM.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/yellow/YELLOW_CHR+1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/yellow/YELLOW_CHR+2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/yellow/YELLOW_CHR-1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/yellow/YELLOW_CHR-2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/yellow/YELLOW_HUE+1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/yellow/YELLOW_HUE+2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/yellow/YELLOW_HUE-1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/yellow/YELLOW_HUE-2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/yellow/YELLOW_HUE.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/yellow/YELLOW_LUM+1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/yellow/YELLOW_LUM+2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/yellow/YELLOW_LUM-1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/yellow/YELLOW_LUM-2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stimuli/yellow/YELLOW_LUM.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/subcondition.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/subcondition.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -92,32 +28,51 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="json" value="1" />
+          <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JSON" value="1" />
+          <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="json" value="1" />
+          <entry key="json" value="2" />
+          <entry key="md" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="1" />
+          <entry key="JSON" value="2" />
+          <entry key="Markdown" value="9" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="374">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="371">
+                <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+                <folding>
+                  <element signature="e#2#47#0" expanded="true" />
+                </folding>
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -130,6 +85,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
@@ -150,7 +106,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
@@ -187,7 +143,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/numerosity-latest" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -213,15 +169,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553667331172</updated>
-      <workItem from="1553667332260" duration="745000" />
+      <workItem from="1553667332260" duration="3036000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="745000" />
+    <option name="totallyTimeSpent" value="3036000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
@@ -252,8 +209,21 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="371">
+            <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+            <folding>
+              <element signature="e#2#47#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
