@@ -1,0 +1,13 @@
+.grid-container {
+  display: grid;
+  padding: 10px;
+}
+
+.grid-item {
+  width: 100%;
+  height: 100%;
+  margin-top: 1px;
+  margin-bottom: 1px;
+  margin-left: 1px;
+  margin-right: 1px;
+}
