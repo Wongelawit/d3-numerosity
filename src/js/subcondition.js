@@ -1,5 +1,5 @@
 // import stimulus from './stimulus';
-const stimulus = require('./stimulus');
+const helper = require('./helper');
 const images = require('./images');
 
 const PATH = "stimuli/";
@@ -252,7 +252,7 @@ exports.numerosity = (color) => {
     let subconditionsArray = [];
     const index = Math.floor(Math.random() *  result.length);
     subconditionsArray = result.sort(() => Math.random() - 0.5);
-    const stiResult = stimulus.generate_stimulus(
+    const stiResult = helper.generate_stimulus(
         [images.images[subconditionsArray[index].distractor_path], images.images[subconditionsArray[index].target_path]],
         [subconditionsArray[index].distractor_size, subconditionsArray[index].target_size]
     )

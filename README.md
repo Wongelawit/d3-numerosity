@@ -1,14 +1,18 @@
+# d3-numerosity
+
+YOUR DESCRIPTION HERE. Replace all instances of `numerosity` in this file with the name of your new plugin.
 
 ## Installing
 
 If you use NPM, `npm install d3-numerosity`. Otherwise, download the [latest release](https://github.com/d3/d3-numerosity/releases/latest).
 
 ## Generate Stimulus
-## d3-numerosity generate_stimulus supports 4 images by default
-1. Red
-2. Blue
-3. Green
-4. Yellow
+## d3-numerosity generate_stimulus supports 3 Shapes
+1. sqaure
+2. circle
+3. diamond
+
+## It accepts size and color as well
 
 ## Example
 
@@ -17,7 +21,18 @@ If you use NPM, `npm install d3-numerosity`. Otherwise, download the [latest rel
 ```javascript
     componentDidMount() {
 
-      var result = d3.stimulus.generate_stimulus([d3.images.red, d3.images.green], [75, 75]);
+      var result = d3.stimulus.generate_stimulus([
+        {
+          shape: 'circle',
+          size: 10,
+          color: 'red'
+        },
+        {
+          shape: 'square',
+          size: 20,
+          color: '#4286f4'
+        }
+      ], [10, 10]);
       
       var div = document.getElementById("root");
       div.innerHTML += result;
@@ -28,25 +43,6 @@ If you use NPM, `npm install d3-numerosity`. Otherwise, download the [latest rel
   }
 ```
 
-
-## Pass custom image
-
-You can pass image url into generate_stimulus function or you can import image from you project and pass it into function.
-
-1. Pass Image URL
-```javascript
-  d3.stimulus.generate_stimulus(['http://imageone.jpg', 'http://imagetwo.jpg'], [75, 75]);
-```
-
-2. Pass Custom Image
-
-```javascript
-  import imageOne from '/path/to/your/imageone'
-  import imageTwo from '/path/to/your/imageTwo'
-
-  d3.stimulus.generate_stimulus([imageOne, imageTwo], [75, 75]);
-
-```
 
 
 ## Subcondition Generator

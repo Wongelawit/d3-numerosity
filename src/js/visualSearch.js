@@ -1,4 +1,4 @@
-const stimulus = require('./stimulus');
+const helper = require('./helper');
 const images = require('./images');
 
 const PATH = "stimuli/";
@@ -271,7 +271,7 @@ exports.visualSearch = (color) => {
   } else {
     distribution_size = [subconditionsArray[0]['size'], 0]
   }
-  const stiResult = stimulus.generate_stimulus(
+  const stiResult = helper.generate_stimulus(
       [images.images[subconditionsArray[0].distractor_path], images.images[subconditionsArray[0].target_path]],
       distribution_size
   )
