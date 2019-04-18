@@ -3,6 +3,8 @@
 
 If you use NPM, `npm install d3-numerosity`. Otherwise, download the [latest release](https://github.com/d3/d3-numerosity/releases/latest).
 
+If you use the latest release, copy the code in your project directory. 
+
 ## Generate Stimulus
 ## d3-numerosity generate_stimulus supports 3 Shapes
 1. sqaure
