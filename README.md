@@ -1,12 +1,12 @@
-# d3-numerosity
+# d3-numerosity-visualsearch
 ## Installing
 
-If you use NPM, `npm install d3-numerosity`. Otherwise, download the [latest release](https://github.com/d3/d3-numerosity/releases/latest).
+If you use NPM, `npm install d3-numerosity-visualsearch`. Otherwise, download the [latest release](https://github.com/d3/d3-numerosity-visualsearch/releases/latest).
 
 If you use the latest release, copy the code in your project directory. 
 
 ## Generate Stimulus
-## d3-numerosity generate_stimulus supports 3 Shapes
+## d3-numerosity-visualsearch generate_stimulus supports 3 Shapes
 1. sqaure
 2. circle
 3. diamond
@@ -15,7 +15,7 @@ If you use the latest release, copy the code in your project directory.
 
 ## Example
 
-`import d3 from 'd3-numerosity';`
+`import d3 from 'd3-numerosity-visualsearch';`
 
 ```javascript
     componentDidMount() {
@@ -45,7 +45,7 @@ If you use the latest release, copy the code in your project directory.
 
 
 ## Subcondition Generator
-## d3-numerosity subconditions only supports 4 colors
+## d3-numerosity-visualsearch subconditions only supports 4 colors
 1. RED
 2. BLUE
 3. GREEN
@@ -53,7 +53,7 @@ If you use the latest release, copy the code in your project directory.
 
 ## Example
 
-`import d3 from 'd3-numerosity';`
+`import d3 from 'd3-numerosity-visualsearch';`
 
 ```javascript
     componentDidMount() {
@@ -80,7 +80,7 @@ If you use the latest release, copy the code in your project directory.
 
 ## Example
 
-`import d3 from 'd3-numerosity';`
+`import d3 from 'd3-numerosity-visualsearch';`
 
 ```javascript
     componentDidMount() {
