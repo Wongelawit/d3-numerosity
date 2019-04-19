@@ -1,16 +1,16 @@
 {
-  "_from": "d3-numerosity",
-  "_id": "d3-numerosity@0.0.9",
+  "_from": "d3-numerosity-visualsearch",
+  "_id": "d3-numerosity-visualsearch@0.0.9",
   "_inBundle": false,
   "_integrity": "sha512-ITPdQCk9GUaCDYrN3kMirsDGhF36aqNUrE/ElWupdOsh698gqACGbcXJNUUQWm+SDX0UelILIrb/AeRIwl5wFA==",
-  "_location": "/d3-numerosity",
+  "_location": "/d3-numerosity-visualsearch",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "d3-numerosity",
-    "name": "d3-numerosity",
-    "escapedName": "d3-numerosity",
+    "raw": "d3-numerosity-visualsearch",
+    "name": "d3-numerosity-visualsearch",
+    "escapedName": "d3-numerosity-visualsearch",
     "rawSpec": "",
     "saveSpec": null,
     "fetchSpec": "latest"
@@ -19,12 +19,12 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/d3-numerosity/-/d3-numerosity-0.0.8.tgz",
+  "_resolved": "https://registry.npmjs.org/d3-numerosity-visualsearch/-/d3-numerosity-visualsearch-0.0.8.tgz",
   "_shasum": "dc2a858e87ec802b357b31c4c3095b956f5cf251",
-  "_spec": "d3-numerosity",
+  "_spec": "d3-numerosity-visualsearch",
   "_where": "/Users/sohamdodia/Documents/Projects/upwork/numerosity-npm",
   "bugs": {
-    "url": "https://github.com/%7BWONGELAWIT%7D/d3-numerosity/issues"
+    "url": "https://github.com/%7BWONGELAWIT%7D/d3-numerosity-visualsearch/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -36,17 +36,17 @@
     "d3": "^5.9.2",
     "jsdom": "^14.0.0"
   },
-  "homepage": "https://github.com/%7BWONGELAWIT%7D/d3-numerosity#readme",
+  "homepage": "https://github.com/%7BWONGELAWIT%7D/d3-numerosity-visualsearch#readme",
   "keywords": [
     "d3",
     "d3-module"
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "d3-numerosity",
+  "name": "d3-numerosity-visualsearch",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/%7BWONGELAWIT%7D/d3-numerosity.git"
+    "url": "git+https://github.com/%7BWONGELAWIT%7D/d3-numerosity-visualsearch.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
